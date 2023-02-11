@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Define a function to add two integers"""
 
