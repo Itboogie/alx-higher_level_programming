@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 Contains class MyInt that inherits from int
@@ -31,4 +29,3 @@ class MyInt(int):
            True if both equal
         """
         return self.num == other
-
